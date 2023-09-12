@@ -8,6 +8,11 @@ from .models import Menu
 # adminlittle@lemon
 # admin@123!@
 
+
+# user
+# jotarokujo
+# jotaro123@
+
 # Register your models here.
 admin.site.register(Booking)
 admin.site.register(Menu)
